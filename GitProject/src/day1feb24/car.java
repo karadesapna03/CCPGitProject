@@ -4,4 +4,5 @@ public class car {
 
 	int a;
 	boolean flag;
+	int c=10;
 }

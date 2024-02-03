@@ -5,7 +5,9 @@ public class car {
 		int a=1;
 		int c=10;
 		
-		boolean flag;
+	    
+	     System.out.println(a);
+	     System.out.println(c);
 	}
 	
    
